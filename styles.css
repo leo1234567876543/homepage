@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+#welcomeBtn {
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 768px) {
+    main {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 2rem !important;
+    }
+}
